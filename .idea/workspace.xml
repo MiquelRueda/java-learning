@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ae11ed-dc81-4567-9f60-31f33ca06d4b" name="Changes" comment="Setmana2">
+      <change afterPath="$PROJECT_DIR$/todo-api/src/main/java/com/miquelrueda/todo_api/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todo-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-api/src/main/java/com/miquelrueda/todo_api/TareaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo-api/src/main/java/com/miquelrueda/todo_api/TareaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-api/src/main/java/com/miquelrueda/todo_api/model/Tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo-api/src/main/java/com/miquelrueda/todo_api/model/Tarea.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MiquelRueda&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiquelRueda/java-learning.git&quot;,
+    &quot;accountId&quot;: &quot;cc341355-427c-4c90-b75d-34512154058c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3AfaUWRFzxMoKDtupeCcgFvwSyE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ae11ed-dc81-4567-9f60-31f33ca06d4b" name="Changes" comment="" />
+      <created>1772985745287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772985745287</updated>
+      <workItem from="1772986096023" duration="1465000" />
+      <workItem from="1772987921656" duration="444000" />
+      <workItem from="1772988380351" duration="239000" />
+      <workItem from="1772988636259" duration="817000" />
+      <workItem from="1772989474056" duration="3409000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1772988513314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772988513315</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ns">
+      <option name="closed" value="true" />
+      <created>1772988700638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772988700638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772989335474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772989335474</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772989525338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772989525338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772989748619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772989748619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772990038072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772990038072</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772992500485</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772992500485</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial Spring Boot project with hello and info endpoints">
+      <option name="closed" value="true" />
+      <created>1772992653172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772992653172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Setmana2">
+      <option name="closed" value="true" />
+      <created>1772992676707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772992676707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="ns" />
+    <MESSAGE value="initial Spring Boot project with hello and info endpoints" />
+    <MESSAGE value="Setmana2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setmana2" />
+  </component>
+</project>

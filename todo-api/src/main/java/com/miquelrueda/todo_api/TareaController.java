@@ -5,6 +5,7 @@ import com.miquelrueda.todo_api.service.TareaService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
+import jakarta.validation.Valid;
 
 import java.util.List;
 
@@ -27,12 +28,12 @@ public class TareaController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Tarea create(@RequestBody Tarea tarea) {
+    public Tarea create(@Valid @RequestBody Tarea tarea) {
         return tareaService.save(tarea);
     }
 
     @PutMapping("/{id}")
-    public Tarea update(@PathVariable Long id, @RequestBody Tarea tarea) {
+    public Tarea update(@PathVariable Long id, @Valid @RequestBody Tarea tarea) {
         return tareaService.update(id, tarea);
     }
 
